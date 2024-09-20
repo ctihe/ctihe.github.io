@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ctihe.github.io/XFj/sitemap.XFj.gz
